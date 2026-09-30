@@ -55,4 +55,4 @@ checkSum()
 
 This is a learning project, and I wrote the logic to practice React and JavaScript fundamentals.
 
-If you see a **cleaner, simpler, or better way** to implement this, feel free to suggest improvements. I’d love to learn from your feedback!
+If you see a **cleaner, simpler, or better way** to implement this, feel free to suggest improvements.
